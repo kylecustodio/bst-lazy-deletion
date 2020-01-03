@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="915321cc-589d-4bbf-9296-dea3879b583f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Project3" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RW10pt6wn6ITi0iGoLiiu0EMRo" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kkzyc\Documents\School\cs3345\Project3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="LazyBSTDriver" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="LazyBSTDriver" />
+      <module name="Project3" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\kkzyc\Documents\School\cs3345\Project3\test.txt C:\Users\kkzyc\Documents\School\cs3345\Project3\outtest.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="LazyBSTDriver" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\kkzyc\Documents\School\cs3345\Project3\test.txt C:\Users\kkzyc\Documents\School\cs3345\Project3\outtest.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="915321cc-589d-4bbf-9296-dea3879b583f" name="Default Changelist" comment="" />
+      <created>1569767817650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569767817650</updated>
+      <workItem from="1569767821889" duration="6771000" />
+      <workItem from="1569963686224" duration="27000" />
+      <workItem from="1569963737560" duration="206000" />
+      <workItem from="1569963971096" duration="3194000" />
+      <workItem from="1570060204736" duration="8582000" />
+      <workItem from="1570379563095" duration="4542000" />
+      <workItem from="1570403584349" duration="14000" />
+      <workItem from="1570733676364" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
